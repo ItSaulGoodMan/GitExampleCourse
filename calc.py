@@ -8,8 +8,8 @@ while 1:
     print("5. Exit")
     choice = int(input("Enter your choice: "))
     if choice == 1:
-        num1 = int(input("Enter first number: "))
-        num2 = int(input("Enter second number: "))
+        #num1 = int(input("Enter first number: "))
+        #num2 = int(input("Enter second number: "))
         print("Output: ", num1+num2)
     elif choice == 2:
         num1 = int(input("Enter first number: "))
