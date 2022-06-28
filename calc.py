@@ -12,12 +12,12 @@ while 1:
         #num2 = int(input("Enter second number: "))
         print("Output: ", num1+num2)
     elif choice == 2:
-        num1 = int(input("Enter first number: "))
-        num2 = int(input("Enter second number: "))
+        #num1 = int(input("Enter first number: "))
+        #num2 = int(input("Enter second number: "))
         print("Output: ", num1-num2)
     elif choice == 3:
-        num1 = int(input("Enter first number: "))
-        num2 = int(input("Enter second number: "))
+        #num1 = int(input("Enter first number: "))
+        #num2 = int(input("Enter second number: "))
         print("Output: ", num1*num2)
     elif choice == 4:
         num1 = int(input("Enter first number: "))
